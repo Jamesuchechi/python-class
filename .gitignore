@@ -1,0 +1,58 @@
+# Virtual environment files
+venv/
+env/
+.venv/
+
+# Package installation files
+*.egg-info/
+dist/
+build/
+
+# Bytecode files
+*.pyc
+_pycache_/
+
+# IDE and editor files
+.idea/
+.vscode/
+.pycharm/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+*.key
+*.env
+secrets.json
+
+# Logs and output files
+*.log
+output/
+
+# Test and coverage reports
+coverage.xml
+test-reports/
+
+venv/
+*.pyc
+_pycache_/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.key
+*.env
+secrets.json
+*.log
+output/
+*.egg-info/
+dist/
+build/
+coverage.xml
+test-reports/
+.cache/
+.Lib
+Lib
+Scripts
+.Scripts

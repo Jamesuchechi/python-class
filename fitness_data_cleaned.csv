@@ -1,0 +1,6 @@
+Date,Time,Duration_Minutes,Pulse,Max_Pulse,Calories_Burned,Exercise_Type,Notes
+2023-01-01,08:00:00,30,110,150,200.5,Running,Morning run
+2023-01-02,07:30:00,45,115,160,300.0,Cycling,Hill climb
+2023-01-03,08:15:00,60,120,165,400.2,Swimming,Freestyle
+2023-01-04,09:00:00,40,112,155,280.1,Running,Treadmill
+2023-01-05,07:45:00,35,108,145,220.3,Yoga,Hatha yoga
